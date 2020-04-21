@@ -1,0 +1,16 @@
+{
+	"expo": {
+		"name": "Sample App",
+		"sdkVersion": "25.0.0",
+		"icon": "./icon.png",
+		"description": "Ace Optical Store",
+		"version": "1.0.1",
+		"orientation": "portrait",
+		"ios": {
+			"bundleIdentifier": "com.<Ace Optical>.<Ace Optical>" // "com.chrisdascoli.getweather"
+		},
+		"android": {
+			"package": "com.<Ace Optical>.<Ace Optical>"
+		}
+	}
+}
